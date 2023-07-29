@@ -4,16 +4,16 @@
 
 Ark Industries will be a reference for automation in the history of technology.
 
-## Eyes movement animation
+## ToDo List with React
 
-This page shows how to combine CSS with JavaScript and DOM manipulation to create an animation of eyes following the cursor movement. This can be done by getting the event of "onmousemove" and converting it to the position of the 'eyes'. Just hover the mouse around the page to see how your movement is been tracked.  
-<img src="./images/eyes.png" alt="Screenshot of eyes movement page">
+This page shows how to use React hooks to create a ToDo List and serves as an example of the concept of CRUD (Create, Read, Update, Delete).
+
 
 ## How to run
 
 This file can be used for beginners in the world of web development to create their first web page in GitHub.  
-To use it, just fork it to your repository and deploy it.  
-For more information on forking and deployment visit <a href="https://docs.github.com/en">GitHub help</a>
+To use it locally, just fork it to your repository and then download it to your computer. Install http-server and run the project with it.
+For more information on how to deploy the local server visit <a href="https://www.npmjs.com/package/http-server" target="_blank">npm http-server</a>
 
 ## Support
 
