@@ -12,7 +12,7 @@ This page shows how to use React hooks to create a ToDo List and serves as an ex
 ## How to run
 
 This file can be used for beginners in the world of web development to create their first web page in GitHub.  
-To use it locally, just fork it to your repository and then download it to your computer. Install http-server and run the project with it.
+To use it locally, just fork it to your repository and then download it to your computer. Install http-server and run the project with it.  
 For more information on how to deploy the local server visit <a href="https://www.npmjs.com/package/http-server" target="_blank">npm http-server</a>
 
 ## Support
